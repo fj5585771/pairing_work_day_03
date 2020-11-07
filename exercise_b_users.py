@@ -85,6 +85,8 @@ for num in avrils_nums:
 
 print(even_nums)
 
+"lottery_numbers": [12, 14, 33, 38, 9, 25],
+
 # 7. Erik is one lottery number short! Add the number `7` to be included in his lottery numbers
 
 eriks_nums.append(7)
